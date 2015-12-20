@@ -65,13 +65,16 @@
   <component name="SelectProjectTemplateSettings">
     <option name="EXPERT_MODE" value="true" />
   </component>
-  <component name="WebServicesPluginSettings" WebServicesUrlPathPrefix="/services" ASK_TO_INSTALL_SOAPUI="true" />
   <component name="XPathView.XPathViewPlugin">
     <option name="attributes">
-      <TextAttributes />
+      <TextAttributes>
+        <option name="effectType" />
+      </TextAttributes>
     </option>
     <option name="contextAttributes">
-      <TextAttributes />
+      <TextAttributes>
+        <option name="effectType" />
+      </TextAttributes>
     </option>
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
