@@ -51,16 +51,52 @@
       <option name="ENABLED" value="true" />
     </filter>
     <filter>
-      <option name="PATTERN" value="javassist.*" />
+      <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
     </filter>
-    <filter>
-      <option name="PATTERN" value="org.apache.webbeans.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="com.ibm.ws.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
+  </component>
+  <component name="PsiViewer.Settings">
+    <option name="HIGHLIGHT_COLOR" value="162 3 229 32" />
+    <option name="PLUGIN_ENABLED" value="true" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+  <component name="SelectProjectTemplateSettings">
+    <option name="EXPERT_MODE" value="true" />
+  </component>
+  <component name="XPathView.XPathViewPlugin">
+    <option name="attributes">
+      <TextAttributes>
+        <option name="effectType" />
+      </TextAttributes>
+    </option>
+    <option name="contextAttributes">
+      <TextAttributes>
+        <option name="effectType" />
+      </TextAttributes>
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="tapestry:parameter" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
 </application>
