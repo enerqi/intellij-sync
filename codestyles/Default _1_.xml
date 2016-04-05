@@ -1,0 +1,6 @@
+<code_scheme name="Default (1)">
+  <ScalaCodeStyleSettings>
+    <option name="addImportMostCloseToReference" value="true" />
+    <option name="classCountToUseImportOnDemand" value="9999" />
+  </ScalaCodeStyleSettings>
+</code_scheme>
